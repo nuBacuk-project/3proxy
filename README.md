@@ -16,7 +16,7 @@ The architectures supported by this image are:
 | x86-64 | ✅ | x86_64 |
 | arm64 | ✅ | aarch64 |
   
-  There are images for aarch64(arm) and x86_64
+  There are images for aarch64(arm64) and x86_64
 
 ```
 docker run -p 3128:3128 -p 1080:1080 -v /path/to/local/config/directory:/usr/local/3proxy/conf --restart always --name 3proxy nubacuk/3proxy:aarch64
