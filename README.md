@@ -1,6 +1,6 @@
 ## Differences from the original
 automatic build and push docker image  
-updated alpine and packages  
+updated packages  
 added docker image build for arm64 servers  
 
 ### Upstream Links
