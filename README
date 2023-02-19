@@ -1,3 +1,13 @@
+# Differences from the original
+automatic build and push docker image every Monday, Wednesday, Friday
+updated alpine and packages
+added docker image build for arm64 servers
+
+#### Upstream Links
+
+* Docker Registry @ [nubacuk/3proxy](https://hub.docker.com/r/nubacuk/3proxy)
+* Original GitHub @ [3proxy/3proxy](https://github.com/3proxy/3proxy)
+
 # 3APA3A 3proxy tiny proxy server
 (c) 2002-2021 by Vladimir '3APA3A' Dubrovin <3proxy@3proxy.org>
 
